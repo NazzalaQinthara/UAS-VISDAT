@@ -92,7 +92,7 @@ Sedangkan data yang bersumber data.jakarta merupakan kondisi udara jakarta haria
 Dari berbagai macam sumber data yang diperoleh, selanjutnya akan dilakukan seleksi data untuk dapat memberikan gambaran suatu fenomena yang terjadi dengan memilih data yang penting yang akan dilakukan proses visualisasi lebih lanjut.
 
 ## VISUALISASI DATA
-Pemilihan jenis visualisasi penting untuk dapat memberikan gambaran data secara akurat tanpa adanya visualisasi data.
+Pemilihan jenis visualisasi penting untuk dapat memberikan gambaran data secara akurat tanpa adanya kesalahan interpretasi data.
 
 Jenis Visualisasi yang digunakan:
 * Line Chart
@@ -125,7 +125,4 @@ Penyusunan dashboard dimulai dari konsep yang ingin di implementasikan dalam das
 <div align="center">
 <img src="images/main.png" alt=" Metode Penelitian" > </div>
 
-untuk detail dashboard dapat dilihat pada laman :
-  ```sh
-  npm install npm@latest -g
-  ```
+untuk detail dashboard dapat dilihat pada laman : https://public.tableau.com/shared/C967RC7Q2?:display_count=n&:origin=viz_share_link
