@@ -17,12 +17,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -33,221 +28,104 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Energi dan Kondisi Lingkungan</h3>
 
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
 </div>
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+# Implementasi Dashbord Energi dan Kondisi Lingkungan Dunia.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Energi merupakan salah satu aspek penting di kehidupan kita. Jumlah penduduk yang meningkat menjadi pemicu ketergantungan besar terhadap energi. Namun, kebutuhan energi yang besar saat ini masih bertumpu pada sektor energi fosil yang memiliki dampak negatif. Energi yang digunakan ini, termasuk energi tak terbarukan dan tak berkelanjutan. 
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Dampak yang ditimbulkan dari penggunaan energi fosil adalah ketika polusi udara yang dihasilkan menyebabkan perubahan iklim. Perubahan iklim merupakan isu besar untuk dunia. Untuk menanggapi isu besar itu, maka terbentuk suatu perjanjian yang disebakati secara global disebut perjanjian Paris.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Perjanjian Paris merupakan kesepakatan tingkat global yang menumental untuk menghadapi perubahan iklim. Perjanjia itu ditindak lanjuti melalui Nationally Determined Contribution untuk periode 2020-2030.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Peubahan iklim menjadi isu yang hangat dibicarakan karena akan berdampak sangat luas untuk seluruh penduduk bumi. Kenaikan suhu bumi, akan berdampak besar dari pada aspek kehidupan. Salah satunya adalah akan menubah sistem iklim yang mempengaruhi berbagai aspek pada peubahan alam dari kehidupan manusia seperti kualita dan kuantitas air, habitat hutan, kesehatan, lahan pertanian dan ekonistem wilayah pesisir.
 
-Use the `BLANK_README.md` to get started.
+Maka dari itu, maka tujuan dari project ini adalah ingin melihat bagaimana Energi yang dibandingkan dengan Kondisi Lingkungan yang akan disusun secara visual untuk dapat menerangkan data dengan cepat dan menarik dan akan disusun dalam dashboard.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+## KERANGKA PIKIR
+berdasarkan uraian dashboard diatas maka disusunlah kerangka pikir seperti pada gambar di bawah ini:
+<div align="center"> <img src="images/Kerangka Pikir.drawio.png" alt="kerangka pikir" align="center"> </div>
 
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+## METODE PENELITIAN
+<div align="center">
+<img src="images/metode Penelitian.drawio.png" alt=" Metode Penelitian" > </div>
 
 
+## SUMBER DATA
+Data dihasilkan dari beberapa sumber dan dikelompokan berdasarkan halaman tampilan dashboard.  Terdapat 4 pengelompokan data yaitu:
+1. Data yang menjelaskan mengenai Energi Ruang Lingkup Dunia.
+2. Data yang menjelaskan mengenai Energi Ruang Lingkup Indonesia.
+3. Data yang menjelaskan mengenai Kondisi Lingkungan Ruang Lingkup Dunia
+4. Data yang menjelaskan mengenai Kondisi Lingkungan Ruang Lingkup Indonesia.
 
-<!-- GETTING STARTED -->
-## Getting Started
+### Energi Ruang Lingkup Dunia
+Data energi dunia bersumber dari laman enerdata pada hasil publikasinya yang berjudul enrdata energy statistical yearbook 2021 yang diambil pada laman [ENERDATA](https://www.enerdata.net/publications/world-energy-statistics-supply-and-demand.html?gclid=CjwKCAjwtcCVBhA0EiwAT1fY76_yE1d-pdFG089x5WSvTWBtuFvYuSrA-yd11CS5EYVAg_EImNSXyxoCzKYQAvD_BwE) dan hasil data yang di ambil dapat dilihat pada berikut. [DATA](https://docs.google.com/spreadsheets/d/1_6vxiHt3tL2Xx1kD1-0sSzQuWC3-amPH/edit?usp=sharing&ouid=107777554176013803099&rtpof=true&sd=true)
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Energi Ruang Lingkup Indonesia
+Data energi dunia bersumber dari laman data [Badan Pusat Statistik](https://www.bps.go.id/subject/7/energi.html#subjekViewTab3) yang terdiri dari data [Persentase Energi Terbarukan](https://www.bps.go.id/indicator/7/1824/1/bauran-energi-terbarukan.html), [Produksi Barang Tambang Mineral](https://www.bps.go.id/indicator/10/508/1/produksi-barang-tambang-mineral.html), dan [Tenaga Listrik yang Dibangkitkan Menurut Provinsi](https://www.bps.go.id/indicator/7/864/1/tenaga-listrik-yang-dibangkitkan-menurut-provinsi.html)
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+### Kondisi Lingkungan Ruang Lingkup Dunia.
+Data dengan kategori ini bersumber dari situs laman Nasa yang memberikan gambaran mengenai prubahan iklim dunia yang di dapat pada laman [nasa](https://climate.nasa.gov/vital-signs/carbon-dioxide/)
+
+### Kondisi Lingkungan Ruang Lingkup Indonesia
+Kondisi lingkungan ruang lingkup Indonesia diperoleh dari 2 sumber yaitu [BPS](https://www.bps.go.id/) dan [data.jakarta](https://data.jakarta.go.id/dataset/indeks-standar-pencemaran-udara-ispu-tahun-2021)
+
+Data yang diambil dari data BPS adalah data mengenai Persentase kelayakan air minum Provinsi dengan kategori desa, kota, dan gabungan. Selanjutnya data mengenai Jumlah penduduk miskin, dan sumber air minum layak menurut provinsi.
+
+Sedangkan data yang bersumber data.jakarta merupakan kondisi udara jakarta harian pada tahun 2021. Satu tambahan data yang bersumber dari world bank data yaitu Rata Rata Suhu Tertinggi Menurut Provinsi.
+
+[detail data](https://drive.google.com/drive/folders/1OXpKQn1G3P6kzb5OUi00rmS4gxdhvwtI?usp=sharing)
+
+
+## SELEKSI DATA
+Dari berbagai macam sumber data yang diperoleh, selanjutnya akan dilakukan seleksi data untuk dapat memberikan gambaran suatu fenomena yang terjadi dengan memilih data yang penting yang akan dilakukan proses visualisasi lebih lanjut.
+
+## VISUALISASI DATA
+Pemilihan jenis visualisasi penting untuk dapat memberikan gambaran data secara akurat tanpa adanya visualisasi data.
+
+Jenis Visualisasi yang digunakan:
+* Line Chart
+* Chloropleth map
+* Bubble Chart
+* Sanked Bar Chart
+
+Berikut alasan pemilihan jenis visualisasi tersebut:
+
+1. Line Chart
+Visualisasi ini dipilih untuk menampilkan data runtun waktu untuk melihat perubahan dalam kurun waktu tertentu
+2. Chloropleth Map
+  Visualisasi ini dipilih untuk dapat menggambarkan keadaan data yang berformat lokasi dan menggunakan gradasi warna untuk dapat membedakan kondisi tiap wilayah tertentu.
+3. Bubble Chart
+   Bubble Chart ini digunakan untuk melihat perbandingan data dengan menggambarkan perubahan tiap satuan tahun. Maka dari itu pada dahboard penelitian terdapat tombol pause dan play untuk melihat perubahan bubble dari tahun ke tahun.
+4. Sanked Bar Chart
+   Visualisasi ini dipilih untuk data yang berhierarki. Dalam kasus dashboard energi dan kondisi lingkungan didapati bahwa terdapat hierarki lokasi yaitu dari negara disatukan dalam 1 kawasan benua tertentu. Sehingga perbandingan menggunakan sanked bar chart digunakan dalam visualisasi.
+
+## PENYUSUNAN DASHBOARD
+Penyusunan dashboard dimulai dari konsep yang ingin di implementasikan dalam dashboard. Saya mengelompokan 3 bagian dalam dashboard yang ingin direalisasikan yaitu:
+*  Header + Menu
+<div align="center">
+<img src="images/header.png" alt=" Metode Penelitian" > </div>
+
+*  Highlight Informasi
+   <div align="center">
+<img src="images/hightlight.png" alt=" Metode Penelitian" > </div>
+
+* Visualisasi Data.
+<div align="center">
+<img src="images/main.png" alt=" Metode Penelitian" > </div>
+
+untuk detail dashboard dapat dilihat pada laman :
   ```sh
   npm install npm@latest -g
   ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
